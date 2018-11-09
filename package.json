@@ -1,0 +1,22 @@
+{
+  "name": "taipay",
+  "version": "1.0.0",
+  "description": "new taipay project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "^3.0.1",
+    "webpack": "^4.18.0"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.0",
+    "reset-css": "^4.0.1"
+  }
+}
